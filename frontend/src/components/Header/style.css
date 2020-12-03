@@ -1,0 +1,24 @@
+.main{
+    background-color: rgba(0,47,52,.03)
+}
+.w-150{
+    width: 600px;
+    height: 50px;
+}
+
+.ancor{
+    font-size: 30px;
+    margin-left: 25px;
+    font-weight: bold;
+}
+
+.sell{
+    border-radius: 20px;
+    border: 5px solid cadetblue;
+   height: 8%;
+    
+    width: 10%;
+}
+.icon{
+    width: 200px;
+}
