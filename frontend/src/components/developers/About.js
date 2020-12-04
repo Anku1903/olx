@@ -1,7 +1,6 @@
 import React from 'react';
 import png1 from '../img/ankur.jpeg';
 import png2 from '../img/ankit.jpeg';
-import png3 from '../img/dhainik.jpeg';
 import ReactDOM from 'react-dom';
 import '../style/style1.css';
 const About = () => {
@@ -28,17 +27,7 @@ const About = () => {
              <a href="https://twitter.com/Ankitchotaliya?s=08"><i class="fa fa-twitter icon color" aria-hidden="true"></i></a>
         </div> 
         </div>
-        <div class="card" >
         
-        <img src={png3} alt="Card image cap" />
-       
-        <div class="card-body new">
-            <p class="card-text color"><b>Dhainik A Suthar</b></p>
-             <a href="https://www.facebook.com/dhainik.suthar"><i class="fa fa-facebook-square icon color" aria-hidden="true"></i> </a>
-             <a href="https://instagram.com/dhainik_suthar?igshid=10ocwyv85t6ju"><i class="fa fa-instagram icon color ml-3 mr-3" aria-hidden="true"></i></a>
-             <a href=" https://twitter.com/DhainikS?s=08"><i class="fa fa-twitter icon color" aria-hidden="true"></i></a>
-        </div> 
-        </div>
         </div>
            );
 }
